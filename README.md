@@ -1,1 +1,13 @@
 # stock-web-scraper
+- AlbanyHacks 2020
+- Webscraper + Finnhub API to acesss stock market data
+  - Major stats
+  - General stock market news
+  - Candelstick data 
+  - Advanced metrics
+  - Media sentiment
+  - Company news
+  - Real time stock data
+  - Graph of the moving average
+  - Price targets
+  - Recent trends
